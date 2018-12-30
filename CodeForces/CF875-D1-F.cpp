@@ -10,7 +10,10 @@
 
                     2) then if we take princess i, we make edge from ai to bi
 
-                    3) then we can add new princess, if and only if graph, which we got, has no component, that has n vericles and > n edges, so you need only check it with dsu
+                    3) then we can add new princess, if and only if graph, which we got, has no component,
+                    that has n vericles and > n edges, so you need only check it with dsu
+                    
+                    https://codeforces.com/blog/entry/55201?#comment-390974
 */
 
 #include <bits/stdc++.h>
